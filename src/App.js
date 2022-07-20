@@ -1,5 +1,5 @@
 import "./App.css";
-import Collaboration from "./components/Collaboration.jsx";
+import Collaboration from "./components/Collaboration/Collaboration.jsx";
 
 function App() {
   return (

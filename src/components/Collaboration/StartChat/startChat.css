@@ -1,0 +1,15 @@
+.msg-section {
+  width: 22vw !important;
+  margin-left: 0.5vw !important;
+}
+
+.chat-footer {
+  display: flex;
+  position: absolute;
+  bottom: 10px;
+}
+
+.salutation {
+  background-color: #00255d;
+  height: 8vh;
+}
