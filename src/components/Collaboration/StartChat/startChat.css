@@ -1,5 +1,5 @@
 .msg-section {
-  width: 22vw !important;
+  width: 12vw !important;
   margin-left: 0.5vw !important;
 }
 
@@ -9,7 +9,41 @@
   bottom: 10px;
 }
 
-.salutation {
+.header {
   background-color: #00255d;
   height: 8vh;
+  display: flex;
+  padding: 0vh 0.2vw;
+  justify-content: space-between;
+}
+
+.header img {
+  margin: auto;
+}
+
+.header .img-kebab-menu {
+  margin-right: 1vw;
+}
+
+.header .img-back, .header .img-expand  {
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+.context {
+  color: white;
+}
+
+.user-avatar, .user-info {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.user-info {
+  margin-left: 0.5vw;
+}
+
+.last-seen {
+  color: gainsboro;
+  font-size: smaller;
 }
