@@ -187,7 +187,7 @@ const Collaboration = () => {
   // }
 
   const createBaseUrl = "https://envoie.gs.dev.walmart.com/v1/conversation";
-  const createHeaders= {"Authorization": 'Bearer 50c3e38c-cdae-46ea-9e92-e5f6ccb3e4bb',
+  const createHeaders= {"Authorization": 'Bearer ',
     "Content-Type": 'application/json' };
   const createBody =   {
     "title": "PO1",
